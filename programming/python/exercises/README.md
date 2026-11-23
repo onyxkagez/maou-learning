@@ -8,6 +8,7 @@ Each exercise will include its objective, source code and, when useful, an expla
 | # | Exercise | Concepts |
 |---|---|---|
 | 01 | User Information | Variables, input, output, type conversion and conditionals |
+| 02 | Grade Manager | Lists, loops, conditionals, functions basics and input validation |
 
 ## Learning Approach
 
